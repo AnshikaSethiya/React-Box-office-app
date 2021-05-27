@@ -4,9 +4,10 @@ const Title = ({title, subtitle}) => {
     return (
         <div>
             <h1>{title}</h1>
-            <p>{subtitle}</p>
+            <h5>{subtitle}</h5>
         </div>
     )
 }
 
 export default Title
+
