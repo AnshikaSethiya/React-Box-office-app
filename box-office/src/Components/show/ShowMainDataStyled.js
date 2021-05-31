@@ -8,7 +8,7 @@ export const MainDataWrapper = styled.div`
   img {
     min-width: 250px;
     width: 300px;
-    max-height: 450px;
+    max-height: 350px;
     border: 1px solid #ddd;
     border-radius: 40px;
   }
